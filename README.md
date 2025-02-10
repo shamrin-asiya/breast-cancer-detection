@@ -10,15 +10,15 @@ This repository provides a **machine learning-based solution** for detecting **b
 ---  
 
 ## 📌 Table of Contents  
-- [Introduction](#introduction)  
-- [Features](#features)  
-- [Dataset](#dataset)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Technologies Used](#technologies-used)  
-- [Results](#results)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Introduction]
+- [Features] 
+- [Dataset]
+- [Installation]
+- [Usage]
+- [Technologies Used] 
+- [Results] 
+- [Contributing]  
+- [License]
 
 ---  
 
